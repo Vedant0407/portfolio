@@ -1,0 +1,25 @@
+/* Center everything on the page */
+body {
+    max-width: 600px;
+    margin: 40px auto; /* Centers the text block */
+    padding: 20px;
+    line-height: 1.5; /* Makes text easier to read */
+    font-family: sans-serif; /* Clean, no-nonsense font */
+    color: #222; /* Dark grey, not pure black */
+}
+
+/* Make headings stand out slightly */
+h1, h3 {
+    color: #000;
+    margin-bottom: 5px;
+}
+
+/* Simple list styling */
+ul {
+    padding-left: 20px;
+}
+
+/* Make the email link blue */
+a {
+    color: blue;
+}
